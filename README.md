@@ -11,6 +11,8 @@ This project is a simple proof-of-concept for training an OCR model to recognize
 ## Test Captcha Examples
 ![Captcha Example](example.png)
 
+## Learning Curve
+![Learning Curve](history.png)
 
 
 ## How to run
