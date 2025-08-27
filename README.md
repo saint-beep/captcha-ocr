@@ -1,2 +1,14 @@
-# captcha-ocr
-Captcha OCR trainer using TensorFlow. A small experiment with ~500 labeled samples to train a custom model for digit captchas.
+# Captcha OCR Trainer
+
+This project is a simple proof-of-concept for training an OCR model to recognize numeric CAPTCHAs using TensorFlow/Keras.
+
+- **Dataset**: ~500 manually labeled captcha images  
+- **Goal**: Recognize 4-digit captchas  
+- **Accuracy**: ~70% on validation (with small dataset)  
+- **Limitations**: Accuracy can be improved by collecting and labeling more data
+- **Next updates**: Making the accuracy bigger
+
+## How to run
+```bash
+pip install -r requirements.txt
+python train_captcha.py
