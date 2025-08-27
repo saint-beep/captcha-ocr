@@ -8,6 +8,11 @@ This project is a simple proof-of-concept for training an OCR model to recognize
 - **Limitations**: Accuracy can be improved by collecting and labeling more data
 - **Next updates**: Making the accuracy bigger
 
+## Test Captcha Examples
+![Captcha Example](example.png)
+
+
+
 ## How to run
 ```bash
 pip install -r requirements.txt
