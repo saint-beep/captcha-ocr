@@ -18,4 +18,4 @@ This project is a simple proof-of-concept for training an OCR model to recognize
 ## How to run
 ```bash
 pip install -r requirements.txt
-python train_captcha.py
+python train.py
